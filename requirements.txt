@@ -1,0 +1,5 @@
+argparse==1.4.0
+duckdb==0.10.0
+mypy==1.8.0
+pylint==3.1.0
+sqlfluff==3.0.0a5

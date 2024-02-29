@@ -1,0 +1,7 @@
+[sqlfluff]
+templater = python
+
+[sqlfluff:templater:python:context]
+input_file = input.parquet
+percentile = 90
+output_file = output.parquet
